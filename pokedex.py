@@ -2,7 +2,7 @@ import streamlit as st
 import mysql.connector
 import pandas as pd
 
-DB_HOST = "etec local"
+DB_HOST = "local host"
 DB_USER = "root"
 DB_PASSWORD = "123456"
 DB_DATABASE = "pokedex_db"
